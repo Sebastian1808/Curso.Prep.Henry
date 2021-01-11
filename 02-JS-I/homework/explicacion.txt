@@ -1,0 +1,20 @@
+Variables, las variables son lugares en nuestro codigo en donde tu puedes guardar cualquier tipo de informacion que tu necesites, pueden
+ser numero, palabras o incluso estados de algo verdadero o algo falso 
+
+Strings, los strings son un tipo de variables en la que nos es permitido almacenar caracteres tanto numericos como alfabeticos y estos 
+caracteres se encuentran en un estado de cadena que significa que esta uno tras el otro en su respectivo orden si el String esta 
+compuesto por mas de un caracter
+
+Funciones, son las que nos premiten ejecutar un codigo la cantidad de veces que quiera hacerlo, las funciones tienen argumentos 
+los cuales son usados como un tipo de variable que toman un valor o tiene sentido solo dentro de la funcion y tambien tienen un return 
+que es el que devuelve un valor que nosotros le demos por defecto a esa funcion, es decir como una respuesta. Despues del return 
+sale de la funcion.
+
+Declaraciones if, el if es un condicional el cual nos ayuda a hacer preguntas de caracter logico con dos caminos posibles por tomar, 
+dependiendo de la respuesta que el programa tome despues de la pregunta del if nos enviara por un camino especifico asi mismo ejecuntado
+diferentes partes del codigo segun como nosotros se lo ordenemos. 
+
+Valores boleanos, los valores boleanos son dos tipos de datos que podemos obtener al momento de hacer una pregunta o nosotros mismos 
+declarar en algun momento en nuestro codigo, estos valores unicamente tienen dos estados 1 o 0, verdadero o falso. en nuestro codigo las
+visualisaremos como un true o un false. 
+
