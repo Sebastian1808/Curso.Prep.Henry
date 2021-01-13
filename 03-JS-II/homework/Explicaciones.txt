@@ -1,0 +1,13 @@
+for, el for es un ciclo repetitivo o un bucle que nos ayuda a automatizar tareas para no repetir lineas de codigo, este hara la misma
+funcion hasta que nosotros se lo ordenemos. 
+
+&&, este es una condicion logica que nos ayudara a hacer comparaciones, es decir si lo tenemos en un if seria, si la variable x >0 Y la 
+variable y > 0 entonces... en este caso nos ayuda a comparar dos variables al mismo tiempo y que se cumpla la funcion solo si las dos 
+variables cumplen la condicion
+
+||, este tambien es una condicion logica que nos ayuda a evaluar dos variables totalmente diferentes, sin embargo esta condicion nos 
+permite que si alguna de las dos variables cumple la condicion haga la funcion, no necesariamente ambas tienen que estar cumpliendo la
+condicion, con una variable que la cumpla es suficiente. 
+
+!, este nos sirve para hacer negaciones hacia cualquier condicion logica, es decir sera la funcion contraria a lo que ejecutemos por 
+ejemplo al momento de hacer una igualdad si la expresamos con la negacion (!=) ya no sera igual, si no sera diferente de...
