@@ -1,0 +1,2 @@
+Arrays, Son una lista de elementos ordenados que sirven para almacenar diferentes tipos de datos como variables enteras, dobles, boleanos
+e incluzo strings. 
