@@ -1,0 +1,14 @@
+Objetos, es un contenedor de datos el cual nos ayuda a guardar mas de un solo elemento y se relaciona con una sola cosa, puede ser 
+ los datos de una persona, de un registro, etc...
+
+propiedades, estos son los valores que podemos almacenar dentro de un objeto y puede ser de cualquier tipo, entero, strign, boleano...
+
+Metodos, los metodos o funciones son los que nos permiten hacer o ejecutar cierto algoritmo en el codigo ya preparado anteriormente, 
+este se invoca con solo una linea lo que nos permite optimizar el codigo para no estar repitiendo el mismo pedazo de codigo varias veces
+
+Bucle for in, este es una adaptacion del bucle for especificamente para buscar archivos y modificarlos dentro de los objetos. 
+
+Notacion de puntos vs Notacion de corchetes, ambas notaciones desarrollan exactamente la misma funcion solo que a veces la notacion de 
+punto nos permite hacer sentencias mas rapido que las de corchete y las de corchetes tiene cierta ventaja al momento de el manejo de 
+datos. 
+
