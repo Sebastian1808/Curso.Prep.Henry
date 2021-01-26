@@ -1,0 +1,8 @@
+prototype, el prototype es una keyword de javascript que nos va a ayudar a no repetir codigo, en el sentido de que podemos poner 
+funciones y valores o definiciones de objetos en el y con ayuda del new podremos crear nuevos objetos sin necisdad de repetir funciones
+en cada uno de los objetos, al momento de necesitar la funcion o el valor solo con llamarlo es suficiente ya que esta establecido en 
+el prototype.
+
+contructores, los constructores son plantillas las cuales podreos establecer y utilizar cuando nosotros creamos sin necesidad de repetir
+todo, ya que lo establecemos previamente como un tipo de plantilla el cual es util al momento de crear objetos, gracias a la plantilla
+ya tenemos los atributos que necesitamos establecer en cada objeto.
