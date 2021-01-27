@@ -1,0 +1,2 @@
+Los callbacks son una ayuda para poder ejuctar funciones de una manera descriptiva y no imperativa, lo que nos ayuda a reducir lineas 
+de codigo y a que nuestro codigo no sea tan explicito
