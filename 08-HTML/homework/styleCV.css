@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.contenedor{
+    width: 90%;
+    max-width: 2000px;
+    height: 600px;
+    margin: 0 auto;
+}
+img{
+    float: right;
+    margin: 0 0 1em 1em;
+    width: 250px;
+
+}
+h1, h2{
+    font-size: 50px;
+    text-align: center;
+}
+p{
+    font-size: 30px;
+    color: darkgray;
+    text-align: justify;
+}
+h3{
+    font-size: 35px;
+}
+h4{
+    font-style: italic;
+    font-size: 24px;
+}
+#skills{
+    clear: both;
+    font-style: italic;
+    font-size: 24px;
+    color: darkgray;
+}
